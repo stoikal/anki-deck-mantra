@@ -164,6 +164,222 @@
             "guid": "iJ.CO8bRwl",
             "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Don't just survive chaos, {{c1::benefit}} from it",
+                ""
+            ],
+            "guid": "Asz/MJ#DLA",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "antifragile"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stressors are {{c1::information}}",
+                ""
+            ],
+            "guid": "u`53t8/Gd\"",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "antifragile"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Never trust anyone who doesn't have {{c1::skin in the game}}",
+                ""
+            ],
+            "guid": "7-p/=*T*G3",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you don't have downside, you don't have {{c1::integrity}}",
+                ""
+            ],
+            "guid": "moDKEb\\cf,",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Improvement through {{c1::removal}}, not addition",
+                ""
+            ],
+            "guid": "e8ErNIzM*D",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The best solution is often {{c1::doing nothing}}",
+                ""
+            ],
+            "guid": "0GGo4!b8?-",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wisdom is knowing what to {{c1::ignore}}",
+                ""
+            ],
+            "guid": "`RwVFv.Po7",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Time is the only true {{c1::stress test}}",
+                ""
+            ],
+            "guid": "K,_:$2\\AaK",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If it's lasted 100 years, it has a {{c1::future}}",
+                ""
+            ],
+            "guid": "rGXY=?pBF)",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Maximize {{c1::upside}}, limit downside",
+                ""
+            ],
+            "guid": "'eQam)<'ZK",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Small risks make you {{c1::stronger}}",
+                ""
+            ],
+            "guid": "a?/chB1FY2",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Avoid ruin at all costs; everything else is {{c1::negotiable}}",
+                ""
+            ],
+            "guid": "k>=C=&'oT4",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Better to be {{c1::old-fashioned}} than wrong",
+                ""
+            ],
+            "guid": ":A*AQ'@\\5;",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The intellectual yet idiot knows {{c1::theory}}, not practice",
+                ""
+            ],
+            "guid": "v^-gra<UkE",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Complexity hides {{c1::fragility}}",
+                ""
+            ],
+            "guid": "y??A_Cx4M+",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::Lift}} heavy things, walk long distances",
+                ""
+            ],
+            "guid": "7If\\*+j+#+",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Never diet, just {{c1::fast occasionally}}",
+                ""
+            ],
+            "guid": "4y[bli9uWG",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "If you see a fraud, call him {{c1::fraud}}—don't use euphemisms",
+                ""
+            ],
+            "guid": "$tlf[$:o_?",
+            "note_model_uuid": "27abef1e-1f6c-11f1-81cf-a78898210146",
+            "tags": [
+                "taleb"
+            ]
         }
     ],
     "reviewLimit": null,
